@@ -1,6 +1,6 @@
 - Hi there, I'm Akshat Kaushik! 👋
 🌟 About Me:
-I'm a B.Tech CSE student in my 3rd semester passionate about coding, problem-solving, and learning new technologies. I'm actively exploring software development and web devlopment,
+I'm a B.Tech CSE student in my 2nd Year passionate about coding, problem-solving, and learning new technologies. I'm actively exploring software development and web devlopment,
 and I enjoy creating practical projects to enhance my skills.
 💡 What I'm Working On:
 Currently building various projects.
